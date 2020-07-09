@@ -2,6 +2,8 @@
 
 Sanny Builder is a fast and powerful tool designed for the GTA 3D game series. It includes a disassembler, permitting the end-user to transform the game scripts into text and a compiler to translate source code written in the [custom language](https://docs.sannybuilder.com/coding) back into the binary form readable by the game. Sanny Builder also offers a convenient editor with a large number of useful functions such as syntax highlighting, error checking, advanced search tools, player coordinates reading, fast movement through code and much more.
 
+![Sanny Builder 3](https://sannybuilder.com/images/sb3_002.gif)
+
 This repository aims to collect users feedback and progress made by the development team. 
 
 ## Documentation
