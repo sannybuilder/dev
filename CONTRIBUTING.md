@@ -11,3 +11,5 @@ There are a few ways in which you can help to improve Sanny Builder:
 * Update existing translation files or create a new translation. Check out the [translation repo](https://github.com/sannybuilder/translations) for additional details.
 * Update the [documentation](https://github.com/sannybuilder/docs). Proofreading and rewording of hard-to-read sentences in a simpler form is especially welcome. 
 * Update opcode definitions and supporting files (CustomVariables, CustomLabels, constants, etc) in the [data repository](https://github.com/sannybuilder/data).
+* Submit a new coloring theme. Check out the [themes repo](https://github.com/sannybuilder/themes) for extra details.
+* Help documenting scripting commands in our [Sanny Builder Library](https://library.sannybuilder.com). Visit the [library repo](https://github.com/sannybuilder/library) for details.
