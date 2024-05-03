@@ -1,7 +1,7 @@
 {
- "version": "4.0.0-beta.8",
+ "version": "4.0.0-beta.9",
  "_": [
-   { "min": "4.0.0-beta.8", "url": "https://github.com/sannybuilder/dev/releases/download/v4.0.0-beta.8/SannyBuilder-v4.0.0-beta.8.patch.zip" },
+   { "min": "4.0.0-beta.8", "url": "https://github.com/sannybuilder/dev/releases/download/untagged-842249d1f0a914e6ded8/SannyBuilder-4.0.0-beta.9.patch.zip" },
    { "min": "*",            "url": "https://github.com/sannybuilder/dev/releases/download/v4.0.0-beta.8/SannyBuilder-v4.0.0-beta.8.zip" }
  ],
  "release_notes": "https://github.com/sannybuilder/dev/issues/277"
