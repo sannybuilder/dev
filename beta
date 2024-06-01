@@ -13,5 +13,6 @@
       "min": "*",
       "url": "https://github.com/sannybuilder/dev/releases/download/v4.0.0-beta.12/SannyBuilder-v4.0.0-beta.12.zip"
     }
-  ]
+  ],
+  "release_notes": "https://github.com/sannybuilder/dev/issues/277#issuecomment-1783985576"
 }
